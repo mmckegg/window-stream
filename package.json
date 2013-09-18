@@ -1,0 +1,23 @@
+{
+  "name": "window-stream",
+  "version": "0.0.0",
+  "description": "Stream data between browser windows using postMessage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/window-stream.git"
+  },
+  "keywords": [
+    "streams",
+    "postMessage",
+    "browser"
+  ],
+  "author": "Matt McKegg",
+  "license": "MIT",
+  "dependencies": {
+    "through": "~2.3.4"
+  }
+}
